@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libstbimage.a CMakeFiles/stbimage.dir/src/stb_image.cpp.obj
+C:\mingw64\bin\ranlib.exe libstbimage.a

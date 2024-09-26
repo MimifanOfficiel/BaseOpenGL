@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\tp02.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\tp02.dir/objects.a @CMakeFiles\tp02.dir\objects1.rsp
+C:\mingw64\bin\c++.exe  -Wall -g -Wl,--whole-archive CMakeFiles\tp02.dir/objects.a -Wl,--no-whole-archive -o tp02.exe -Wl,--out-implib,libtp02.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tp02.dir\linkLibs.rsp

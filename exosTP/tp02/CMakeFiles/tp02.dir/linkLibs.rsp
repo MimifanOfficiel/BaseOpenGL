@@ -1,0 +1,1 @@
+ -lopengl32 -lglu32 ../../stbimage/libstbimage.a ../../glad/libglad.a "../../glfw-3.3.8/src/libglfw3.a" "../../imgui-1.91.1/libimgui.a" ../../glengine/libglengine.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

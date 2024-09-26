@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libglengine.a CMakeFiles/glengine.dir/src/orbitalCamera.cpp.obj CMakeFiles/glengine.dir/src/glengine.cpp.obj
+C:\mingw64\bin\ranlib.exe libglengine.a
